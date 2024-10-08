@@ -35,6 +35,7 @@
    - [`src`](#src)
    - [`alt`](#alt)
    - [`action` y `method`](#action-y-method-en-formularios)
+9. [Autor](#autor)
 
 
 ## ¿Qué es HTML?
@@ -236,12 +237,12 @@ La etiqueta `<img>` se utiliza para insertar imágenes en la página. Debe inclu
 </html>
 ```
 <figure style="text-align: center;">
-<<<<<<< Updated upstream
-  <img src="HTML5.png" alt="" width="400" height="" />
-=======
+
+ 
+
   <img src="HTML5.png" alt="" width="400"/>
->>>>>>> Stashed changes
-  <figcaption><strong>Calculadora</strong></figcaption>
+
+  <figcaption><strong></strong></figcaption>
 </figure>
 
 ### `<ul>` y `<ol>`
@@ -555,8 +556,8 @@ Los métodos `GET` y `POST` son dos formas de enviar datos en formularios web, c
 - **Ejemplo**:
     ```html
     <form action="ruta al servidor" method="post">
-<<<<<<< Updated upstream
-    ```
-=======
-    ```
->>>>>>> Stashed changes
+
+## **Autor**
+
+- [Juan Sebastián Martínez Galeano](https://github.com/Mogollo7?tab=repositories)
+- [Samuel Usma Brand](https://github.com/Brandsete)
